@@ -1,30 +1,38 @@
-# Hi, I'm Antonios 👋
+# Hi, I'm Antonios
 
-## 🛡️ Aspiring Cyber Security Analyst
+## Cyber Security Analyst (Aspiring)
 
-I am building hands-on projects in cybersecurity and continuously improving my skills.
+I am building practical cybersecurity projects and continuously developing my skills in network security and threat analysis.
 
-## 🔧 Projects
+---
 
-- 🔍 Port Scanner (Python)
-- 🔐 Password Strength Checker
-- 📧 Phishing Email Analysis
-- 📄 Incident Report Template
+## Projects
 
-## 🧠 Skills
+• Port Scanner (Python)  
+• Password Strength Checker  
+• Phishing Email Analysis  
+• Incident Report Template  
 
-- Python
-- Network Security
-- TCP/IP
-- Linux
-- Threat Detection
-- Incident Response
+---
 
-## 📚 Learning
+## Skills
 
-- TryHackMe (Cyber Security Training)
-- Hands-on security projects
+• Python  
+• Network Security  
+• TCP/IP  
+• Linux  
+• Threat Detection  
+• Incident Response  
 
-## 📫 Connect with me
+---
 
-- LinkedIn: https://www.linkedin.com/in/antonios-a-582328250/
+## Learning
+
+• TryHackMe (Cyber Security Training)  
+• Hands-on security projects  
+
+---
+
+## Contact
+
+LinkedIn: https://www.linkedin.com/in/antonios-a-582328250/
