@@ -14,7 +14,9 @@ I am building practical cybersecurity projects and continuously developing my sk
 • [Incident Report Template](https://github.com/AntoniosAngelis/incident-report-template)  
 • [Log Analysis Project](https://github.com/AntoniosAngelis/Log-Analysis-Project)
 
-• [Linux Command Cheat Sheet](https://github.com/AntoniosAngelis/linux-command-cheat-sheet)  ---
+• [Linux Command Cheat Sheet](https://github.com/AntoniosAngelis/linux-command-cheat-sheet)  
+
+---
 
 ## Skills
 
