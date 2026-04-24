@@ -26,6 +26,9 @@ I am building practical cybersecurity projects and continuously developing my sk
 • Network Security  
 • TCP/IP  
 • Linux  
+• Log Analysis  
+• Firewall Rules  
+• Access Control  
 • Threat Detection  
 • Incident Response  
 
