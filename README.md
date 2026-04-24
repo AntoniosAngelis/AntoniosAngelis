@@ -13,6 +13,7 @@ I am building practical cybersecurity projects and continuously developing my sk
 • [Phishing Email Analysis](https://github.com/AntoniosAngelis/phishing-email-analysis)  
 • [IP Log Analyzer](https://github.com/AntoniosAngelis/IP-Log-Analyzer)  
 • [Log Analysis Project](https://github.com/AntoniosAngelis/Log-Analysis-Project)  
+• [Firewall Rule Simulator](https://github.com/AntoniosAngelis/Firewall-Rule-Simulator)  
 
 • [Linux Command Cheat Sheet](https://github.com/AntoniosAngelis/linux-command-cheat-sheet)  
 • [Incident Report Template](https://github.com/AntoniosAngelis/incident-report-template)  
