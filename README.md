@@ -8,11 +8,11 @@ I am building practical cybersecurity projects and continuously developing my sk
 
 ## Projects
 
-• [Port Scanner](https://github.com/AntoniosAngelis/port-scanner)  
 • [Password Strength Checker](https://github.com/AntoniosAngelis/password-strength-checker)  
+• [Port Scanner](https://github.com/AntoniosAngelis/port-scanner)  
 • [Phishing Email Analysis](https://github.com/AntoniosAngelis/phishing-email-analysis)  
-• [IP Log Analyzer](https://github.com/AntoniosAngelis/IP-Log-Analyzer)  
-• [Log Analysis Project](https://github.com/AntoniosAngelis/Log-Analysis-Project)
+• [Log Analysis Project (Linux Basics)](https://github.com/AntoniosAngelis/Log-Analysis-Project)  
+• [IP Log Analyzer (Python Tool)](https://github.com/AntoniosAngelis/IP-Log-Analyzer)  
 
 • [Linux Command Cheat Sheet](https://github.com/AntoniosAngelis/linux-command-cheat-sheet)  
 • [Incident Report Template](https://github.com/AntoniosAngelis/incident-report-template)  
