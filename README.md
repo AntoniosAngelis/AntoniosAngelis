@@ -13,7 +13,7 @@ I am building practical cybersecurity projects and continuously developing my sk
 • [Phishing Email Analysis](https://github.com/AntoniosAngelis/phishing-email-analysis)  
 • [Incident Report Template](https://github.com/AntoniosAngelis/incident-report-template)  
 • [Linux Command Cheat Sheet](https://github.com/AntoniosAngelis/linux-command-cheat-sheet)
-  → Essential Linux commands for security and system analysis
+
 ---
 
 ## Skills
