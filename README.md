@@ -14,6 +14,7 @@ I am building practical cybersecurity projects and continuously developing my sk
 • [IP Log Analyzer](https://github.com/AntoniosAngelis/IP-Log-Analyzer)  
 • [Log Analysis Project](https://github.com/AntoniosAngelis/Log-Analysis-Project)  
 • [Firewall Rule Simulator](https://github.com/AntoniosAngelis/Firewall-Rule-Simulator) 
+
 • [Django SOC Log Analyzer](https://github.com/AntoniosAngelis/django-log-analyzer)
 
 • [Linux Command Cheat Sheet](https://github.com/AntoniosAngelis/linux-command-cheat-sheet)  
